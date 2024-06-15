@@ -41,13 +41,13 @@ filtered_cards = pokemon_cards[pokemon_cards['rareté'].isin(selected_rarities)]
 # Displaying the filtered data
 st.markdown("### Cartes Pokémon")
 # Configure grid options using GridOptionsBuilder
-builder = GridOptionsBuilder.from_dataframe(pokemon_cards)
+builder = GridOptionsBuilder.from_dataframe(filtered_cards)
 builder.configure_pagination(enabled=True)
 builder.configure_selection(selection_mode='single', use_checkbox=False)
 grid_options = builder.build()
 
 # Display AgGrid
-return_value = AgGrid(pokemon_cards, gridOptions=grid_options)
+return_value = AgGrid(filtered_cards, gridOptions=grid_options)
 if return_value['selected_rows'] is not None:
     system_name = return_value['selected_rows']["image_url"]
     st.image(system_name.iloc[0])
