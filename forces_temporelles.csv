@@ -1,0 +1,219 @@
+ID,Name
+1,Insécateur
+2,Pomdepik
+3,Grainipiot
+4,Pifeuil
+5,Tengalice
+6,Balignon
+7,Chapignon
+8,Roselia
+9,Roserade
+10,Tortipouss
+11,Boskara
+12,Torterra ex
+13,Shaymin
+14,Doudouvet
+15,Farfaduvet
+16,Vivaldaim
+17,Haydaim
+18,Larvibule
+19,Sinistrail
+20,Virovent
+21,Virevorreur
+22,Scovilain ex
+23,Léboulérou
+24,Bérasca
+25,Vert-de-Fer ex
+26,Ponyta
+27,Galopa
+28,Limagma
+29,Volcaropod
+30,Victini
+31,Aflamanoir
+32,Flamiaou
+33,Matoufeu
+34,Félinferno ex
+35,Boumata
+36,Grillepattes
+37,Scolocendre
+38,Feu-Perçant ex
+39,Kaiminus
+40,Crocrodil
+41,Aligatueur
+42,Carvanha
+43,Sharpedo
+44,Keldeo
+45,Frissonille
+46,Beldeneige
+47,Taupikeau
+48,Dofin
+49,Superdofin
+50,Serpente-Eau ex
+51,Pikachu
+52,Raichu
+53,Elektek
+54,Elekable
+55,Chrysapile
+56,Lucanon
+57,Zeraora
+58,Voltoutou
+59,Fulgudog
+60,Triopikeau ex
+61,Paume-de-Fer
+62,Épine-de-Fer
+63,M. Mime
+64,Marill
+65,Azumarill
+66,Girafarig
+67,Latias
+68,Archeomire
+69,Archeodong
+70,Nucléos
+71,Méios
+72,Symbios
+73,Lewsor
+74,Neitram
+75,Bombydou
+76,Rubombelle
+77,Hurle-Queue
+78,Flotte-Mèche
+79,Garde-de-Fer
+80,Garde-de-Fer
+81,Chef-de-Fer ex
+82,Meditikka
+83,Charmina
+84,Relicanth
+85,Rototaupe
+86,Minotaupe
+87,Gringolem
+88,Golemastoc
+89,Rocabot
+90,Lougaroc
+91,Tiboudet
+92,Bourrinos
+93,Charbi
+94,Wagomine
+95,Monthracite
+96,Fort-Ivoire
+97,Fort-Ivoire
+98,Pelage-Sablé
+99,Roc-de-Fer ex
+100,Abo
+101,Arbok
+102,Fantominus
+103,Spectrum
+104,Ectoplasma ex
+105,Medhyena
+106,Grahyena
+107,Ténéfix
+108,Farigiraf ex
+109,Rugit-Lune
+110,Foretress
+111,Cizayox ex
+112,Mysdibule
+113,Terhal
+114,Metang
+115,Metalosse
+116,Meltan
+117,Melmetal
+118,Roue-de-Fer
+119,Koraidon
+120,Koraidon ex
+121,Miraidon
+122,Miraidon ex
+123,Ire-Foudre ex
+124,Excelangue
+125,Coudlangue
+126,Hoothoot
+127,Noarfang
+128,Insolourdo
+129,Deusolourdo
+130,Skitty
+131,Delcatty
+132,Pijako
+133,Poichigeon
+134,Colombeau
+135,Déflaisan
+136,Chinchidou
+137,Pashmilla
+138,Draïeul
+139,Têtes-de-Fer
+140,Capsule Énergie Booster Temps Passé
+141,Tambour Éveil
+142,Dévouement de Bianca
+143,Commande Emballée
+144,Poffin Copain-Copain
+145,Décodage de Décryptomane
+146,Nèflie
+147,Guide d'Exploration
+148,Labo Métal Pur
+149,Capsule Énergie Booster Temps Futur
+150,Tondeuse de Main
+151,Bâton de Masse
+152,Cape Héroïque
+153,Master Ball
+154,Ceinture Maximale
+155,Conviction de Mortimer
+156,Jungle Périlleuse
+157,Attrape-Ultime
+158,Capsule de Redémarrage
+159,Planche de Sauvetage
+160,Salvio
+161,Énergie Brume
+162,Néo-Énergie Sup
+163,Tengalice
+164,Boskara
+165,Vivaldaim
+166,Haydaim
+167,Flamiaou
+168,Frissonille
+169,Chrysapile
+170,Archeomire
+171,Symbios
+172,Bombydou
+173,Relicanth
+174,Minotaupe
+175,Bourrinos
+176,Arbok
+177,Fantominus
+178,Metalosse
+179,Meltan
+180,Excelangue
+181,Pijako
+182,Chinchidou
+183,Pashmilla
+184,Draïeul
+185,Torterra ex
+186,Vert-de-Fer ex
+187,Félinferno ex
+188,Feu-Perçant ex
+189,Serpente-Eau ex
+190,Triopikeau ex
+191,Chef-de-Fer ex
+192,Roc-de-Fer ex
+193,Ectoplasma ex
+194,Farigiraf ex
+195,Cizayox ex
+196,Ire-Foudre ex
+197,Dévouement de Bianca
+198,Décodage de Décryptomane
+199,Nèflie
+200,Guide d'Exploration
+201,Conviction de Mortimer
+202,Salvio
+203,Vert-de-Fer ex
+204,Feu-Perçant ex
+205,Serpente-Eau ex
+206,Chef-de-Fer ex
+207,Roc-de-Fer ex
+208,Ire-Foudre ex
+209,Dévouement de Bianca
+210,Nèflie
+211,Conviction de Mortimer
+212,Salvio
+213,Vert-de-Fer ex
+214,Feu-Perçant ex
+215,Serpente-Eau ex
+216,Chef-de-Fer ex
+217,Roc-de-Fer ex
+218,Ire-Foudre ex

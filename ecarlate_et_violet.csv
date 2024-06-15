@@ -1,0 +1,259 @@
+ID,Name
+1,Pomdepik
+2,Scarhino
+3,Balignon
+4,Chapignon
+5,Cacnéa
+6,Cacturne
+7,Tropius
+8,Lépidonille
+9,Pérégrain
+10,Prismillon
+11,Cabriolaine
+12,Chevroum
+13,Poussacha
+14,Matourgeon
+15,Miascarade
+16,Tissenboule
+17,Tissenboule
+18,Tissenboule
+19,Filentrappe ex
+20,Olivini
+21,Olivini
+22,Olivado
+23,Arboliva
+24,Terracool
+25,Terracool
+26,Terracruel
+27,Pimito
+28,Pimito
+29,Scovilain
+30,Caninos
+31,Caninos
+32,Arcanin ex
+33,Malosse
+34,Démolosse
+35,Chartor
+36,Chochodile
+37,Crocogril
+38,Flâmigator
+39,Charbambin
+40,Charbambin
+41,Carmadura
+42,Ramoloss
+43,Flagadoss
+44,Magicarpe
+45,Léviator ex
+46,Mustébouée
+47,Mustéflott
+48,Mamanbo
+49,Flingouste
+50,Gamblast
+51,Denticrisse
+52,Coiffeton
+53,Canarbello
+54,Palmaval
+55,Taupikeau
+56,Taupikeau
+57,Triopikeau
+58,Piétacé
+59,Piétacé
+60,Balbalèze
+61,Oyacata
+62,Nigirigon
+63,Magneti
+64,Magneton
+65,Magnézone ex
+66,Wattouat
+67,Lainergie
+68,Pachirisu
+69,Motisma
+70,Motisma
+71,Toxizap
+72,Salarsen
+73,Pohm
+74,Pohm
+75,Pohmotte
+76,Pohmarmotte
+77,Zapétrel
+78,Zapétrel
+79,Fulgulairo
+80,Miraidon
+81,Miraidon ex
+82,Soporifik
+83,Hypnomade
+84,Tarsal
+85,Kirlia
+86,Gardevoir ex
+87,Polichombr
+88,Branette ex
+89,Baudrive
+90,Grodrive
+91,Flabébé
+92,Floette
+93,Florges
+94,Dedenne
+95,Dedenne
+96,Trousselin
+97,Pâtachiot
+98,Pâtachiot
+99,Briochien
+100,Flotillon
+101,Flotillon
+102,Flotillon
+103,Cléopsytra
+104,Toutombe
+105,Toutombe
+106,Tomberro
+107,Férosinge
+108,Colossinge
+109,Courrousinge
+110,Meditikka
+111,Charmina
+112,Riolu
+113,Riolu
+114,Lucario
+115,Mascaïman
+116,Escroco
+117,Crocorible
+118,Brutalibré
+119,Dunaja
+120,Dunaconda
+121,Dolman
+122,Craparoi
+123,Fort-Ivoire ex
+124,Koraidon
+125,Koraidon ex
+126,Tadmorv
+127,Grotadmorv
+128,Seviper
+129,Spiritomb
+130,Cradopaud
+131,Coatox ex
+132,Scalpion
+133,Scalproie
+134,Scalpereur
+135,Grondogue
+136,Grondogue
+137,Dogrino
+138,Lestombaile
+139,Foretress
+140,Vrombi
+141,Vrombi
+142,Vrombotor
+143,Roue-de-Fer ex
+144,Leveinard
+145,Leuphorie
+146,Mangriff
+147,Mangriff
+148,Etourmi
+149,Etourvol
+150,Etouraptor
+151,Rongourmand
+152,Rongrigou
+153,Wimessir
+154,Gourmelet
+155,Gourmelet
+156,Gourmelet
+157,Fragroin
+158,Fragroin ex
+159,Compagnol
+160,Compagnol
+161,Famignol
+162,Tapatoès
+163,Motorizard
+164,Motorizard
+165,Flamenroule
+166,Pepper
+167,Terrain de Plage
+168,Maillet Écrasant
+169,Bandeau de Défi
+170,Générateur Électrique
+171,Récupération d'Énergie
+172,Recherche d'Énergie
+173,Échange d'énergie
+174,Multi Exp
+175,Jacq
+176,Juge
+177,Éra
+178,Mesaledo
+179,Mimosa
+180,Menzi
+181,Faiblo Ball
+182,Registre Ami
+183,Pania
+184,Panier de Pique-Nique
+185,Poké Ball
+186,Pokématos 3.0
+187,Attrape-Pokémon
+188,Potion
+189,Recherches Professorales Professeure Olim
+190,Recherches Professorales Professeur Turum
+191,Super bonbon
+192,Plastron Roc
+193,Casque Brut
+194,Échange
+195,Sbire de la Team Star
+196,Hyper Ball
+197,Bandeau Vitalité
+198,Gamin
+199,Tissenboule
+200,Olivado
+201,Terracool
+202,Scovilain
+203,Carmadura
+204,Ramoloss
+205,Flingouste
+206,Taupikeau
+207,Oyacata
+208,Pachirisu
+209,Pohmarmotte
+210,Soporifik
+211,Tarsal
+212,Kirlia
+213,Pâtachiot
+214,Toutombe
+215,Riolu
+216,Mascaïman
+217,Craparoi
+218,Dogrino
+219,Lestombaile
+220,Scalpereur
+221,Etourmi
+222,Rongourmand
+223,Filentrappe ex
+224,Arcanin ex
+225,Léviator ex
+226,Magnézone ex
+227,Miraidon ex
+228,Gardevoir ex
+229,Branette ex
+230,Fort-Ivoire ex
+231,Koraidon ex
+232,Coatox ex
+233,Roue-de-Fer ex
+234,Fragroin ex
+235,Pepper
+236,Jacq
+237,Éra
+238,Mimosa
+239,Pania
+240,Recherches Professorales Professeure Olim
+241,Recherches Professorales Professeur Turum
+242,Sbire de la Team Star
+243,Filentrappe ex
+244,Miraidon ex
+245,Gardevoir ex
+246,Fort-Ivoire ex
+247,Koraidon ex
+248,Roue-de-Fer ex
+249,Pepper
+250,Jacq
+251,Mimosa
+252,Pania
+253,Miraidon ex
+254,Koraidon ex
+255,Faiblo Ball
+256,Super bonbon
+257,Énergie Electrique
+258,Énergie Combat

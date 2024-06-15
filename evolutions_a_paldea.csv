@@ -1,0 +1,280 @@
+ID,Name
+1,Granivol
+2,Floravol
+3,Cotovol
+4,Pomdepik
+5,Foretress ex
+6,Scarhino
+7,Tropius
+8,Apitrini
+9,Apireine
+10,Blizzi
+11,Blizzaroi
+12,Poussacha
+13,Poussacha
+14,Matourgeon
+15,Miascarade ex
+16,Tissenboule
+17,Tissenboule
+18,Filentrappe
+19,Lilliterelle
+20,Lilliterelle
+21,Gambex
+22,Virovent
+23,Virovent
+24,Virevorreur
+25,Léboulérou
+26,Léboulérou
+27,Chongjian ex
+28,Tauros de Paldéa
+29,Braisillon
+30,Flambusard
+31,Hélionceau
+32,Némélios
+33,Plumeline
+34,Chochodile
+35,Chochodile
+36,Crocogril
+37,Flâmigator ex
+38,Charbambin
+39,Charbambin
+40,Yuyu ex
+41,Tauros de Paldéa
+42,Magicarpe
+43,Léviator
+44,Marill
+45,Azumarill
+46,Cadoizo
+47,Lovdisc
+48,Bekaglaçon
+49,Coiffeton
+50,Coiffeton
+51,Canarbello
+52,Palmaval ex
+53,Piétacé
+54,Piétacé
+55,Balbalèze
+56,Délestin
+57,Frigodo
+58,Frigodo
+59,Cryodo
+60,Glaivodo
+61,Baojian ex
+62,Pikachu
+63,Pikachu ex
+64,Raichu
+65,Magneti
+66,Voltorbe
+67,Électrode
+68,Lixy
+69,Lixy
+70,Luxio
+71,Luxray
+72,Wattapik
+73,Wattapik
+74,Pohm
+75,Pohmotte
+76,Pohmarmotte
+77,Têtampoule
+78,Têtampoule
+79,Ampibidou ex
+80,Zapétrel
+81,Zapétrel
+82,Fulgulairo
+83,Rondoudou
+84,Grodoudou
+85,Ramoloss
+86,Roigada ex
+87,Feuforeve
+88,Magirêve
+89,Spiritomb
+90,Scrutella
+91,Mesmérella
+92,Sidérella
+93,Dedenne ex
+94,Gouroutan
+95,Bacabouh
+96,Trépassable
+97,Mimiqui
+98,Malvalame
+99,Bérasca
+100,Forgerette
+101,Forgerette
+102,Forgerette
+103,Forgella
+104,Forgella
+105,Forgelina
+106,Férosinge
+107,Colossinge
+108,Tauros de Paldéa
+109,Simularbre
+110,Embrylex
+111,Ymphect
+112,Makuhita
+113,Hariyama
+114,Cradopaud
+115,Coatox
+116,Rocabot
+117,Lougaroc ex
+118,Quartermac
+119,Hexadron
+120,Selutin
+121,Selutin
+122,Amassel
+123,Gigansel
+124,Germéclat
+125,Germéclat
+126,Floréclat
+127,Dinglu ex
+128,Axoloto de Paldéa
+129,Axoloto de Paldéa
+130,Terraiste de Paldéa ex
+131,Cornèbre
+132,Corboss
+133,Farfuret
+134,Dimoret
+135,Tyranocif
+136,Ténéfix
+137,Seviper
+138,Solochi
+139,Diamat
+140,Trioxhydre
+141,Grondogue
+142,Grondogue
+143,Dogrino
+144,Gribouraigne
+145,Gribouraigne
+146,Tag-Tag
+147,Lestombaile
+148,Corvaillus
+149,Charibari
+150,Pachyradjah ex
+151,Ferdeter
+152,Sonistrelle
+153,Bruyverne ex
+154,Girafarig
+155,Farigiraf
+156,Insolourdo
+157,Deusolourdo
+158,Goelise
+159,Bekipan
+160,Parecool
+161,Vigoroth
+162,Monaflemit
+163,Passerouge
+164,Minisange
+165,Bleuseille
+166,Compagnol
+167,Compagnol
+168,Famignol
+169,Tapatoès ex
+170,Flamenroule
+171,Cuencia
+172,Ordres du Boss Ghetis
+173,Amulette Bravoure
+174,Montagne Enneigé de Désastre
+175,Terres Arides de Désastre
+176,Ceinture Choix
+177,Clavel
+178,Drone Livreur
+179,Élige
+180,Albert
+181,Combat au Lait
+182,Brome
+183,Super Ball
+184,Grusha
+185,Mashynn
+186,Studio d'Entraînement
+187,Saguaro
+188,Méga Canne
+189,Récupération d'Énergie Supérieure
+190,Énergie Propulsion
+191,Énergie Lumineuse
+192,Énergie Inversion
+193,Énergie Thérapeutique
+194,Scarhino
+195,Tropius
+196,Poussacha
+197,Matourgeon
+198,Virovent
+199,Braisillon
+200,Némélios
+201,Chochodile
+202,Crocogril
+203,Magicarpe
+204,Marill
+205,Bekaglaçon
+206,Coiffeton
+207,Canarbello
+208,Frigodo
+209,Cryodo
+210,Glaivodo
+211,Raichu
+212,Magirêve
+213,Mesmérella
+214,Bacabouh
+215,Bérasca
+216,Forgerette
+217,Forgella
+218,Tauros de Paldéa
+219,Simularbre
+220,Selutin
+221,Axoloto de Paldéa
+222,Tyranocif
+223,Tag-Tag
+224,Ferdeter
+225,Minisange
+226,Famignol
+227,Flamenroule
+228,Farigiraf
+229,Deusolourdo
+230,Foretress ex
+231,Miascarade ex
+232,Chongjian ex
+233,Flâmigator ex
+234,Yuyu ex
+235,Palmaval ex
+236,Baojian ex
+237,Ampibidou ex
+238,Roigada ex
+239,Dedenne ex
+240,Forgelina ex
+241,Lougaroc ex
+242,Courrousinge ex
+243,Dinglu ex
+244,Terraiste de Paldéa ex
+245,Pachyradjah ex
+246,Bruyverne ex
+247,Tapatoès ex
+248,Ordres du Boss Ghetis
+249,Clavel
+250,Élige
+251,Albert
+252,Brome
+253,Grusha
+254,Mashynn
+255,Saguaro
+256,Miascarade ex
+257,Chongjian ex
+258,Flâmigator ex
+259,Yuyu ex
+260,Palmaval ex
+261,Baojian ex
+262,Forgelina ex
+263,Dinglu ex
+264,Tapatoès ex
+265,Ordres du Boss Ghetis
+266,Élige
+267,Brome
+268,Grusha
+269,Mashynn
+270,Saguaro
+271,Miascarade ex
+272,Flâmigator ex
+273,Palmaval ex
+274,Baojian ex
+275,Dinglu ex
+276,Méga Canne
+277,Récupération d'Énergie Supérieure
+278,Énergie Plante de Base
+279,Énergie Eau de Base
