@@ -37,7 +37,7 @@ selected_rarities = st.multiselect("Sélectionnez les raretés", options=raritie
 
 
 filtered_cards = pokemon_cards[pokemon_cards['rareté'].isin(selected_rarities)]
-filtered_cards = filtered_cards.groupby("id").first()
+filtered_cards = filtered_cards.groupby("id").first().reset_index()
 
 # Displaying the filtered data
 st.markdown("### Cartes Pokémon")
