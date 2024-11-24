@@ -1,9 +1,14 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
+from selenium.webdriver.chrome.options import Options
 
-# Set up Selenium (you need to download a browser driver like ChromeDriver)
-driver = webdriver.Chrome()  # You can use other drivers like Firefox
-url = "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Temporal-Forces/Buddy-Buddy-Poffin-TEF144"
+options = Options()
+options.add_argument('--headless')
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
+
+driver = webdriver.Chrome(options=options)
+url = "https://www.cardmarket.com/fr/Pokemon/Products"
 driver.get(url)
 
 # Get the rendered HTML

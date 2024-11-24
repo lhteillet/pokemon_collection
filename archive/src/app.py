@@ -51,9 +51,10 @@ grid_options = builder.build()
 
 # Display AgGrid
 return_value = AgGrid(filtered_cards, gridOptions=grid_options)
+image_container = st.container(height=250)
 if return_value['selected_rows'] is not None:
     system_name = return_value['selected_rows']["image_url"]
-    st.image(system_name.iloc[0])
+    image_container.image(system_name.iloc[0], width=150)
 else:
     st.write("No row selected")
 
