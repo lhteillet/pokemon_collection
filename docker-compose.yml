@@ -1,0 +1,30 @@
+services:
+  mariadb:
+    image: mariadb:latest  # Use the official MariaDB image
+    container_name: mariadb_master  # Optional: name your container
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}  # Reference the .env variable
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+    ports:
+      - "3306:3306"  # Map port 3306 of the container to the host
+    volumes:
+      - ./database/var/lib/mysql:/var/lib/mysql  # Persistent volume for data
+      - ./database/init-scripts/init-db.sql:/docker-entrypoint-initdb.d/init-db.sql
+    networks:
+      - pokemon_net
+  
+  app:
+    image: python:3.11-slim  # Use a slim Python image to run Streamlit
+    container_name: streamlit_app  # Optional: name your container
+    working_dir: /app  # Set the working directory to /app in the container
+    volumes:
+      - ./app:/app  # Mount the app folder from the host to the container
+    ports:
+      - "8501:8501"  # Expose Streamlit default port 8501
+    command: bash -c "pip install -r /app/requirements.txt && streamlit run /app/src/app.py" # Install requirements and run app
+    networks:
+      - pokemon_net
+
+networks:
+  pokemon_net:
+    driver: bridge

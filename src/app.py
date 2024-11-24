@@ -11,10 +11,12 @@ st.markdown("# La collection de Manon & Louis")
 
 # Import data
 extension_names = ["Forces Temporelles", "Ecarlate et Violet", "Evolution à Paldéa", "Flammes Obsidiennes"]
+
 extension_code = {"Forces Temporelles": "TEF",
                    "Ecarlate et Violet": "SVI", 
                    "Evolution à Paldéa": "PAL", 
                    "Flammes Obsidiennes": "OBF"}
+
 extension_sheet = {"Forces Temporelles": "forces_temporelles",
                    "Ecarlate et Violet": "ecarlate_et_violet", 
                    "Evolution à Paldéa": "evolutions_a_paldea", 
@@ -23,8 +25,8 @@ extension_sheet = {"Forces Temporelles": "forces_temporelles",
 selected_extension = st.sidebar.selectbox("Sélectionnez une extension", extension_names)
 selected_code = extension_code[selected_extension]
 
-pokemon_cards = pd.read_excel("collection.xlsx", sheet_name = extension_sheet[selected_extension])
-pokemon_names = pd.read_csv(f"{extension_sheet[selected_extension]}.csv", sep=",")
+pokemon_cards = pd.read_excel("./mycollection/collection.xlsx", sheet_name = extension_sheet[selected_extension])
+pokemon_names = pd.read_csv(f"./extension_pokemon_id/{extension_sheet[selected_extension]}.csv", sep=",")
 
 pokemon_cards = pokemon_cards.merge(pokemon_names, left_on="id", right_on="ID")
 pokemon_cards = pokemon_cards[["id","Name","type","rareté","nb"]]
@@ -33,7 +35,7 @@ pokemon_cards["image_url"] = pokemon_cards.apply(lambda x : f"https://www.pokeca
 
 # Multiselect for filtering by rarity
 rarities = pokemon_cards['rareté'].unique()
-selected_rarities = st.multiselect("Sélectionnez les raretés", options=rarities, default=rarities)
+selected_rarities = st.sidebar.multiselect("Sélectionnez les raretés", options=rarities, default=rarities)
 
 
 filtered_cards = pokemon_cards[pokemon_cards['rareté'].isin(selected_rarities)]
