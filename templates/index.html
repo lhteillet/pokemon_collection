@@ -1,9 +1,16 @@
 {% extends "base.html" %}
 
-{% block title %}Home{% endblock %}
+{% block title %}My Pokemon Collection{% endblock %}
 
 {% block content %}
-<h1>Welcome to mypokemon-collection</h1>
+
+<!-- <div class="container mt-4">
+    <h1>Welcome to My App</h1>
+    <a href="/register">Register</a>
+    <a href="/login">Login</a>
+</div> -->
+
+<h1>Welcome to MyPokemon Collection</h1>
 <form action="/cards" method="get">
     <label for="extension">Sélectionnez une extension:</label>
     <select name="extension" id="extension">

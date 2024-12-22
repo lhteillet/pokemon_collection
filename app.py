@@ -41,6 +41,14 @@ def load_data(selected_extension):
 def home():
     return render_template("index.html", extensions=extension_names)
 
+@app.route('/_stcore/host-config', methods=['GET'])
+def host_config():
+    return jsonify({"status": "ok"})
+
+@app.route('/_stcore/health', methods=['GET'])
+def health():
+    return jsonify({"health": "healthy"})
+
 @app.route("/login", methods=["GET", "POST"])
 def login():
     if request.method == "POST":
@@ -87,4 +95,4 @@ def forgot_password():
     return render_template("forgot_password.html")
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host = "0.0.0.0", port = 8501, debug=True)
